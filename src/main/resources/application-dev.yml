@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/lbwblog?useSSL=false&useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: ******
+  jpa:
+    hibernate:
+      ddl-auto: update
+      use-new-id-generator-mappings: false
+    show-sql: true
+    open-in-view: true
+
+
+logging:
+  level:
+    root: info
+    com.lbw: debug
+  file:
+    name: log/blog-dev.log
