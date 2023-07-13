@@ -1,6 +1,8 @@
 # 博客介绍
 <p align=center>
-    <img src="https://zougn.oss-cn-shanghai.aliyuncs.com/photos/255fff56ab5a4f2e366b5c04a84e45de.png?raw=true" alt="小而美的个人博客" style="border-radius: 60%">
+  <a href="https://blog.zougn.com">
+    <img src="https://zougn.oss-cn-shanghai.aliyuncs.com/photos/255fff56ab5a4f2e366b5c04a84e45de.png" alt="小而美的个人博客" style="border-radius: 50%">
+  </a>
 </p>
 
 
