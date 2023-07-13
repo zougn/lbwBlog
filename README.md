@@ -1,7 +1,8 @@
 # 博客介绍
 <p align=center>
-    <img src="https://zougn.oss-cn-shanghai.aliyuncs.com/photos/255fff56ab5a4f2e366b5c04a84e45de.png?raw=true" alt="小而美的个人博客" style="border-radius: 50%">
+    <img src="https://zougn.oss-cn-shanghai.aliyuncs.com/photos/255fff56ab5a4f2e366b5c04a84e45de.png?raw=true" alt="小而美的个人博客" style="border-radius: 60%">
 </p>
+
 
 
 <p align=center>
@@ -16,7 +17,6 @@
       <img src="https://img.shields.io/badge/JPA-green"/>
    </a>
 </p>
-
 
 
 [项目链接](#项目链接) |[技术组合](#技术组合) | [工具与环境](#工具与环境) | [功能规划](#功能规划) |[目录结构](#目录结构)  | [页面设计与开发](#页面设计与开发) | [插件集成](#插件集成) | [快速开始](#快速开始) |[项目总结](#项目总结) 
@@ -132,7 +132,7 @@ lbwblog
 
 [编辑器 Markdown](https://pandao.github.io/editor.md/)
 
-[Markdown 转换 HTML]([https://github.com/atlassian/commonmark-java](https://github.com/atlassian/commonmark-java))
+[Markdown 转换 HTML](https://github.com/atlassian/commonmark-java)
 
 [内容排版 typo.css](https://github.com/sofish/typo.css)
 
@@ -152,7 +152,7 @@ lbwblog
 
 - 拉下代码，修改maven、jdk、yml(mysql密码)配置
 - 创建lbwblog数据库，将lbwblog.sql导入数据库执行
-- 运行项目，在浏览器打开[localhost:8080](https://localhost:8080)
+- 运行项目，在浏览器打开：[localhost:8080](https://localhost:8080)
 - 后台页面：[localhost:8080/admin](https://localhost:8080/admin)  用户名:lbw  密码:123456
 
 # 项目总结
